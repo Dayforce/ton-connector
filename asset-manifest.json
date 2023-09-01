@@ -1,11 +1,10 @@
 {
-  "main.js": "/ton-connector/static/js/main.f95da3cc.chunk.js",
-  "main.js.map": "/ton-connector/static/js/main.f95da3cc.chunk.js.map",
-  "static/js/1.46a37b08.chunk.js": "/ton-connector/static/js/1.46a37b08.chunk.js",
-  "static/js/1.46a37b08.chunk.js.map": "/ton-connector/static/js/1.46a37b08.chunk.js.map",
-  "runtime~main.js": "/ton-connector/static/js/runtime~main.60645e90.js",
-  "runtime~main.js.map": "/ton-connector/static/js/runtime~main.60645e90.js.map",
-  "index.html": "/ton-connector/index.html",
-  "precache-manifest.469dd3f62deda7a3411288473e19e63c.js": "/ton-connector/precache-manifest.469dd3f62deda7a3411288473e19e63c.js",
-  "service-worker.js": "/ton-connector/service-worker.js"
+  "files": {
+    "main.js": "/ton-connector/static/js/main.8f0e6fbe.js",
+    "index.html": "/ton-connector/index.html",
+    "main.8f0e6fbe.js.map": "/ton-connector/static/js/main.8f0e6fbe.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.8f0e6fbe.js"
+  ]
 }
