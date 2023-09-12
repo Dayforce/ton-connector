@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/ton-connector/static/js/main.9ef54399.js",
+    "main.js": "/ton-connector/static/js/main.6631b170.js",
     "index.html": "/ton-connector/index.html",
-    "main.9ef54399.js.map": "/ton-connector/static/js/main.9ef54399.js.map"
+    "main.6631b170.js.map": "/ton-connector/static/js/main.6631b170.js.map"
   },
   "entrypoints": [
-    "static/js/main.9ef54399.js"
+    "static/js/main.6631b170.js"
   ]
 }
